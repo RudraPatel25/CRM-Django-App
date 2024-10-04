@@ -53,7 +53,3 @@ A simple Customer Relationship Management (CRM) system built with Django. This p
 - Use the dashboard to view all customer records.
 - Create new records, view details, update information, or delete records as needed.
 - Access the admin panel at `http://127.0.0.1:8000/admin/` using the superuser credentials.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
